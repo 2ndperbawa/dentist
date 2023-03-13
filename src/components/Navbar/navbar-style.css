@@ -1,0 +1,104 @@
+.navbar-div {
+    width: 200px;
+    background-color: #181b24;
+    border-right: 1px solid #262d33;
+}
+.navbar-top-logo {
+    width: 35px;
+}
+
+.top-navbar {
+    width: 100%;
+}
+
+.user-identity{
+    width: 100%;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.user-identity-div {
+    width: 85%;
+    height: 50px;
+    background-color: #262d33;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.user-photo {
+    width: 50px;
+}
+
+.user-inner-desc {
+    color: white;
+}
+
+.user-photo-div {
+    width: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.user-name{
+    font-size: 14px;
+}
+
+.user-role {
+    font-size: 10px;
+}
+
+.menu-wrap{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.nav-menu-button{
+    display: flex;
+    width: 150px;
+    height: 40px;
+    align-items: center;
+    padding-left: 5px;
+    border-radius: 5px;
+    margin: 4px;
+}
+
+.nav-menu-button:hover{
+    background-color: #262d33;
+}
+
+.nav-button-logo-div {
+    width: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.nav-button-logo {
+    margin-top: 5px;
+    width: 30px;
+}
+
+.nav-button-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    color: white;
+    font-size: 12PX;
+}
+
+.wrap-title{
+    width: 150px;
+    color: white;
+    font-size: 11px;
+    font-weight: 700;
+}

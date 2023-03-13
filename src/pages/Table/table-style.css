@@ -1,0 +1,88 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    color: white;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+    color: black;
+  }
+
+  .table-div {
+    background-color: #181b24;
+    width: 88%;
+    padding: 20px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .table-title{
+    margin-top: 20px;
+    margin-bottom: 50px;
+    font-size: 25px;
+    font-weight: 700;
+  }
+
+  .dentist-data-tr {
+    font-size: 11px;
+  }
+
+  .delete-popUp {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    margin-top: 110px;
+    z-index: 1;
+  }
+
+  .display-popUp {
+    display: flex;
+  }
+
+  .close-popUp {
+    display: none;
+  }
+
+  .delete-popUp-inner {
+    width: 300px;
+    height: 150px;
+    border-radius: 7px;
+    background-color: #dddddd;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .delete-popUp-question{
+    margin-bottom: 20px;
+  }
+
+  .delete-popUp-inner-inner {
+    width: 200px;
+    height: 100px;
+  }
+
+  .delete-popUp-question{
+    color: black;
+  }
+
+  .delete-popUp-buttons {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+  }
+
+  .delete-popUp-buttons{
+
+  }

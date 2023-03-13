@@ -1,0 +1,55 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "nom": "Granet Audignon",
+      "prenom": "Sophie",
+      "adresse": "51 Rue de Cronstadt, 2400 Perigueux, France",
+      "telephone": "05 53 08 05 93",
+      "email": "sophie.granetaudignon@chirurgien-dentiste.mssante.fr"
+    },
+    {
+      "id": 4,
+      "nom": "Granger",
+      "prenom": "Anais",
+      "adresse": "58 Avenue des Reynats. 24000 Periguex, France",
+      "telephone": "05 33 09 21 86",
+      "email": "mar.granger@hotmail.fr"
+    },
+    {
+      "id": 5,
+      "nom": "Graux",
+      "prenom": "Bettina",
+      "adresse": "Rue de la Clarte. 24000 Periguex, France",
+      "telephone": "05 53 53 28 49",
+      "email": "bettinamasson@sfr.fr"
+    },
+    {
+      "id": 6,
+      "nom": "Grax",
+      "prenom": "Bettina",
+      "adresse": "Rue de la Clarte. 24000 Periguex, France",
+      "telephone": "05 53 53 28 49",
+      "email": "bettinamasson@sfr.fr"
+    },
+    {
+      "id": 7,
+      "nom": "CR7",
+      "prenom": "Bettina",
+      "adresse": "Rue de la Clarte. 24000 Periguex, France",
+      "telephone": "05 53 53 28 49",
+      "email": "bettinamasson@sfr.fr"
+    },
+    {
+      "id": 8,
+      "nom": "Messi",
+      "prenom": "Bettina",
+      "adresse": "Rue de la Clarte. 24000 Periguex, France",
+      "telephone": "05 53 53 28 49",
+      "email": "bettinamasson@sfr.fr"
+    },
+    {
+      "id": 9
+    }
+  ]
+}
